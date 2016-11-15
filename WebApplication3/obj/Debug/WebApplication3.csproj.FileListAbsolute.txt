@@ -268,3 +268,4 @@ C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrati
 >>>>>>> f496badd208b95ebe3dc15d87ec38e5f01f986a5
 >>>>>>> 3b6c48bc2e0d93b262425c8de0621f01776bdf9a
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration5.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration6.resources
