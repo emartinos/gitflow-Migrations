@@ -210,6 +210,10 @@
     <Compile Include="Migrations\201611141623491_addUserTable.Designer.cs">
       <DependentUpon>201611141623491_addUserTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201611151004065_Migration2.cs" />
+    <Compile Include="Migrations\201611151004065_Migration2.Designer.cs">
+      <DependentUpon>201611151004065_Migration2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -299,6 +303,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201611141623491_addUserTable.resx">
       <DependentUpon>201611141623491_addUserTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201611151004065_Migration2.resx">
+      <DependentUpon>201611151004065_Migration2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
