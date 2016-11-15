@@ -260,3 +260,4 @@ D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Mig
 D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration3.resources
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration4.resources
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration3.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration6.resources
