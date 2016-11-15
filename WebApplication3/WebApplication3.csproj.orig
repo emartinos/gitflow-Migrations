@@ -226,14 +226,13 @@
     <Compile Include="Migrations\201611151027366_Migration4.Designer.cs">
       <DependentUpon>201611151027366_Migration4.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201611151037581_Migration6.cs" />
-    <Compile Include="Migrations\201611151037581_Migration6.Designer.cs">
-      <DependentUpon>201611151037581_Migration6.cs</DependentUpon>
-    </Compile>
+<<<<<<< HEAD
     <Compile Include="Migrations\201611151035450_Migration5.cs" />
     <Compile Include="Migrations\201611151035450_Migration5.Designer.cs">
       <DependentUpon>201611151035450_Migration5.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> f496badd208b95ebe3dc15d87ec38e5f01f986a5
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -336,12 +335,12 @@
     <EmbeddedResource Include="Migrations\201611151027366_Migration4.resx">
       <DependentUpon>201611151027366_Migration4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611151037581_Migration6.resx">
-      <DependentUpon>201611151037581_Migration6.cs</DependentUpon>
-    </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="Migrations\201611151035450_Migration5.resx">
       <DependentUpon>201611151035450_Migration5.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> f496badd208b95ebe3dc15d87ec38e5f01f986a5
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
