@@ -255,3 +255,6 @@ C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrati
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.dll
 C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration2.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration1.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration3.resources
