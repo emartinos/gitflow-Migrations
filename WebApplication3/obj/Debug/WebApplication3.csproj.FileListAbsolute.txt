@@ -1,0 +1,271 @@
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\EntityFramework.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Owin.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\WebGrease.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\EntityFramework.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.Migrations.test.resources
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
+c:\users\martinos\documents\visual studio 2015\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.Migrations.addUserTable.resources
+D:\Repositories\gitflow-migrations\WebApplication3\bin\ApplicationInsights.config
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\csc.exe
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\vbc.exe
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Repositories\gitflow-migrations\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositories\gitflow-migrations\WebApplication3\bin\WebApplication3.dll.config
+D:\Repositories\gitflow-migrations\WebApplication3\bin\WebApplication3.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\WebApplication3.pdb
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Antlr3.Runtime.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\EntityFramework.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\EntityFramework.SqlServer.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.Web.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Owin.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Helpers.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Mvc.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Optimization.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Razor.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.Razor.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\WebGrease.dll
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.Web.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Helpers.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Mvc.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Optimization.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.Razor.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\System.Web.WebPages.Razor.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Antlr3.Runtime.pdb
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\EntityFramework.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\EntityFramework.SqlServer.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Repositories\gitflow-migrations\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.test.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.addUserTable.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Projects\gitflow-Migrations\WebApplication3\bin\ApplicationInsights.config
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\csc.exe
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\vbc.exe
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Projects\gitflow-Migrations\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\gitflow-Migrations\WebApplication3\bin\WebApplication3.dll.config
+C:\Projects\gitflow-Migrations\WebApplication3\bin\WebApplication3.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\WebApplication3.pdb
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\EntityFramework.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Owin.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Helpers.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Mvc.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Optimization.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Razor.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\WebGrease.dll
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Helpers.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Mvc.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Optimization.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.Razor.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\EntityFramework.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\gitflow-Migrations\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.test.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.addUserTable.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration2.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration1.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration2.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration1.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration3.resources
+<<<<<<< HEAD
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration4.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration5.resources
+=======
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration4.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration3.resources
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration6.resources
+>>>>>>> f496badd208b95ebe3dc15d87ec38e5f01f986a5
+>>>>>>> 3b6c48bc2e0d93b262425c8de0621f01776bdf9a
+C:\Projects\gitflow-Migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration5.resources
+D:\Repositories\gitflow-migrations\WebApplication3\obj\Debug\WebApplication3.Migrations.Migration6.resources
